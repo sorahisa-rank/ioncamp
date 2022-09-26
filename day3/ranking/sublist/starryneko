@@ -1,0 +1,35 @@
+[
+    {
+        "user": "starryneko",
+        "task": "C",
+        "time": 1049,
+        "key": "49",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "starryneko",
+        "task": "C",
+        "time": 4550,
+        "key": "261",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "starryneko",
+        "task": "C",
+        "time": 5564,
+        "key": "327",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    }
+]

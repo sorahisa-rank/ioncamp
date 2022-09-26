@@ -1,0 +1,140 @@
+[
+    {
+        "user": "same0620",
+        "task": "C",
+        "time": 163,
+        "key": "1",
+        "token": false,
+        "score": 0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "C",
+        "time": 184,
+        "key": "3",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "C",
+        "time": 714,
+        "key": "32",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "E",
+        "time": 2178,
+        "key": "120",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "B",
+        "time": 2865,
+        "key": "175",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "B",
+        "time": 2923,
+        "key": "178",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "B",
+        "time": 3119,
+        "key": "190",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "B",
+        "time": 3185,
+        "key": "193",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "B",
+        "time": 3207,
+        "key": "195",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "D",
+        "time": 6276,
+        "key": "391",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "A",
+        "time": 8356,
+        "key": "470",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "same0620",
+        "task": "A",
+        "time": 8750,
+        "key": "481",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "41",
+            "55",
+            "4"
+        ]
+    }
+]

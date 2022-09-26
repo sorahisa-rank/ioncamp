@@ -1,0 +1,158 @@
+[
+    {
+        "user": "brown_toad",
+        "task": "C",
+        "time": 580,
+        "key": "22",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "C",
+        "time": 703,
+        "key": "30",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 2192,
+        "key": "122",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 2433,
+        "key": "143",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 3059,
+        "key": "185",
+        "token": false,
+        "score": 30.0,
+        "extra": [
+            "30",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "E",
+        "time": 4489,
+        "key": "256",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "B",
+        "time": 5332,
+        "key": "313",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "B",
+        "time": 5486,
+        "key": "324",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "B",
+        "time": 5995,
+        "key": "374",
+        "token": false,
+        "score": 90.0,
+        "extra": [
+            "90"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "B",
+        "time": 6252,
+        "key": "388",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "D",
+        "time": 7541,
+        "key": "440",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "30",
+            "10",
+            "60"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "F",
+        "time": 7984,
+        "key": "457",
+        "token": false,
+        "score": 3.0,
+        "extra": [
+            "3",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "brown_toad",
+        "task": "A",
+        "time": 8978,
+        "key": "495",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    }
+]

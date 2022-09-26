@@ -1,0 +1,57 @@
+[
+    {
+        "user": "cryinpudd",
+        "task": "C",
+        "time": 4655,
+        "key": "267",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cryinpudd",
+        "task": "C",
+        "time": 5323,
+        "key": "312",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "cryinpudd",
+        "task": "B",
+        "time": 6794,
+        "key": "417",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "cryinpudd",
+        "task": "B",
+        "time": 8143,
+        "key": "461",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "cryinpudd",
+        "task": "B",
+        "time": 8936,
+        "key": "492",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    }
+]

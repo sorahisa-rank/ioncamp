@@ -1,0 +1,35 @@
+[
+    {
+        "user": "oceanWen",
+        "task": "C",
+        "time": 1049,
+        "key": "50",
+        "token": false,
+        "score": 100.0,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "B",
+        "time": 4289,
+        "key": "244",
+        "token": false,
+        "score": 0.0,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "oceanWen",
+        "task": "B",
+        "time": 6525,
+        "key": "403",
+        "token": false,
+        "score": 80.0,
+        "extra": [
+            "80"
+        ]
+    }
+]
