@@ -1,1 +1,497 @@
-[{"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753532771, "key": "590", "score": 30.0, "token": false, "extra": ["30"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753533969, "key": "768", "score": 80.0, "token": false, "extra": ["80"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753534035, "key": "778", "score": 70.0, "token": false, "extra": ["70"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753534095, "key": "786", "score": 70.0, "token": false, "extra": ["70"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753534239, "key": "809", "score": 0.0, "token": false, "extra": ["0"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753534334, "key": "831", "score": 0.0, "token": false, "extra": ["0"]}, {"user": "team061", "task": "ConfuciousMosquitoe", "time": 1753534449, "key": "854", "score": 80.0, "token": false, "extra": ["80"]}, {"user": "team061", "task": "Decode", "time": 1753533214, "key": "652", "score": 0.0, "token": false, "extra": ["0", "0"]}, {"user": "team061", "task": "Decode", "time": 1753533791, "key": "739", "score": 0.0, "token": false, "extra": ["0", "0"]}, {"user": "team061", "task": "Decode", "time": 1753537425, "key": "1364", "score": 0.0, "token": false, "extra": ["0", "0"]}, {"user": "team061", "task": "Decode", "time": 1753537491, "key": "1380", "score": 0.0, "token": false, "extra": ["0", "0"]}, {"user": "team061", "task": "Hat", "time": 1753529764, "key": "286", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "Hat", "time": 1753530661, "key": "354", "score": 0.0, "token": false, "extra": ["0", "0", "0"]}, {"user": "team061", "task": "Hat", "time": 1753530836, "key": "369", "score": 0.0, "token": false, "extra": ["0", "0", "0"]}, {"user": "team061", "task": "Hat", "time": 1753530897, "key": "375", "score": 0.0, "token": false, "extra": ["0", "0", "0"]}, {"user": "team061", "task": "Hat", "time": 1753531011, "key": "381", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "Hat", "time": 1753531246, "key": "407", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "Hat", "time": 1753531392, "key": "421", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "Hat", "time": 1753535419, "key": "1010", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "Hat", "time": 1753535563, "key": "1030", "score": 50.0, "token": false, "extra": ["10", "40", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753535648, "key": "1042", "score": 28.66862999999999, "token": false, "extra": ["2.33", "3.33", "2.67", "3.33", "0", "0", "0", "0", "0", "0", "13", "0", "0", "0", "0", "0", "0", "4", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753535714, "key": "1053", "score": 15.168790000000005, "token": false, "extra": ["2", "3.83", "3.33", "0", "0", "0", "6", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753535775, "key": "1067", "score": 18.501749999999998, "token": false, "extra": ["2", "3.83", "2.67", "0", "0", "0", "6", "0", "0", "0", "0", "0", "0", "0", "0", "0", "4", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753536775, "key": "1241", "score": 18.501749999999998, "token": false, "extra": ["2", "3.83", "2.67", "0", "0", "0", "6", "0", "0", "0", "0", "0", "0", "0", "0", "0", "4", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753536837, "key": "1253", "score": 22.835099999999986, "token": false, "extra": ["3.33", "3.33", "2.17", "2", "12", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753536919, "key": "1264", "score": 28.38209999999999, "token": false, "extra": ["3.33", "5", "3.83", "3.33", "12.88", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "IONC_5fSimulator", "time": 1753537149, "key": "1305", "score": 27.335169999999987, "token": false, "extra": ["3.33", "5", "2.67", "3.33", "0", "0", "0", "0", "0", "0", "13", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]}, {"user": "team061", "task": "ciallo", "time": 1753529134, "key": "268", "score": 100.0, "token": false, "extra": ["100"]}, {"user": "team061", "task": "minority", "time": 1753533619, "key": "713", "score": 41.83, "token": false, "extra": ["41.83"]}]
+[
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753532771,
+        "key": "590",
+        "score": 30.0,
+        "token": false,
+        "extra": [
+            "30"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753533969,
+        "key": "768",
+        "score": 80.0,
+        "token": false,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753534035,
+        "key": "778",
+        "score": 70.0,
+        "token": false,
+        "extra": [
+            "70"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753534095,
+        "key": "786",
+        "score": 70.0,
+        "token": false,
+        "extra": [
+            "70"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753534239,
+        "key": "809",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753534334,
+        "key": "831",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ConfuciousMosquitoe",
+        "time": 1753534449,
+        "key": "854",
+        "score": 80.0,
+        "token": false,
+        "extra": [
+            "80"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Decode",
+        "time": 1753533214,
+        "key": "652",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Decode",
+        "time": 1753533791,
+        "key": "739",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Decode",
+        "time": 1753537425,
+        "key": "1364",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Decode",
+        "time": 1753537491,
+        "key": "1380",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753529764,
+        "key": "286",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753530661,
+        "key": "354",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753530836,
+        "key": "369",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753530897,
+        "key": "375",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753531011,
+        "key": "381",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753531246,
+        "key": "407",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753531392,
+        "key": "421",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753535419,
+        "key": "1010",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "Hat",
+        "time": 1753535563,
+        "key": "1030",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "10",
+            "40",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753535648,
+        "key": "1042",
+        "score": 28.66862999999999,
+        "token": false,
+        "extra": [
+            "2.33",
+            "3.33",
+            "2.67",
+            "3.33",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753535714,
+        "key": "1053",
+        "score": 15.168790000000005,
+        "token": false,
+        "extra": [
+            "2",
+            "3.83",
+            "3.33",
+            "0",
+            "0",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753535775,
+        "key": "1067",
+        "score": 18.501749999999998,
+        "token": false,
+        "extra": [
+            "2",
+            "3.83",
+            "2.67",
+            "0",
+            "0",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753536775,
+        "key": "1241",
+        "score": 18.501749999999998,
+        "token": false,
+        "extra": [
+            "2",
+            "3.83",
+            "2.67",
+            "0",
+            "0",
+            "0",
+            "6",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753536837,
+        "key": "1253",
+        "score": 22.835099999999986,
+        "token": false,
+        "extra": [
+            "3.33",
+            "3.33",
+            "2.17",
+            "2",
+            "12",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753536919,
+        "key": "1264",
+        "score": 28.38209999999999,
+        "token": false,
+        "extra": [
+            "3.33",
+            "5",
+            "3.83",
+            "3.33",
+            "12.88",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "IONC_5fSimulator",
+        "time": 1753537149,
+        "key": "1305",
+        "score": 27.335169999999987,
+        "token": false,
+        "extra": [
+            "3.33",
+            "5",
+            "2.67",
+            "3.33",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "ciallo",
+        "time": 1753529134,
+        "key": "268",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "100"
+        ]
+    },
+    {
+        "user": "team061",
+        "task": "minority",
+        "time": 1753533619,
+        "key": "713",
+        "score": 43.50,
+        "token": false,
+        "extra": [
+            "43.50"
+        ]
+    }
+]
