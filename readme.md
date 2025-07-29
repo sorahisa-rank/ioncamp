@@ -8,3 +8,4 @@
     -   [Day 1](https://sorahisa-rank.github.io/ioncamp/2025/day1/ranking/)
     -   [Day 2](https://sorahisa-rank.github.io/ioncamp/2025/day2/ranking/)
     -   [Day 3](https://sorahisa-rank.github.io/ioncamp/2025/day3/ranking/)
+    -   [Day 4](https://sorahisa-rank.github.io/ioncamp/2025/day4/ranking/)
